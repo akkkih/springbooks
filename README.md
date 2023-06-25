@@ -39,7 +39,7 @@ The Spring project provides the following routes for managing books:
 - `PUT /api/v1/books/{id}`: Updates an existing book with the specified ID. The updated book details should be provided in the request body.
 - `DELETE /api/v1/books/{id}`: Deletes a book with the specified ID.
 
-To interact with these routes, you can use tools like Insomnia. There's an Insomnia configuration file for the environment on the root folder. Replace `{id}` in the route with the actual ID of the book you want to access.
+To interact with these routes, you can use tools like Insomnia. There's an [Insomnia configuration file](insomnia.json) for the environment on the root folder. Replace `{id}` in the route with the actual ID of the book you want to access.
 
 ## To-do List
 - [ ] Add unit tests
