@@ -31,7 +31,7 @@ Before running the code, you need to configure the `src/main/resources/applicati
 
 ## Accessing the Routes
 
-The Spring project provides the following routes for managing books:
+SpringBooks provides the following routes for managing books:
 
 - `GET /api/v1/books`: Retrieves a list of all books.
 - `GET /api/v1/books/{id}`: Retrieves a specific book by its ID.
